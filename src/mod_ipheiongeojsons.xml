@@ -40,7 +40,7 @@
 	<!-- files and folders used by this module -->
 	<!-- in folder media are put in \media\mod_ipheiongeojsons\ -->
 	<media folder="media" destination="mod_ipheiongeojsons">
-		<folder>geojson</folder>
+		<folder>geojsons</folder>
 	</media>
 
     <!-- additional fields to be configured in joomla back-end for this module-->  
