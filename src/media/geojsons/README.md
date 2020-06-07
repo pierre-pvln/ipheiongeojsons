@@ -1,5 +1,7 @@
 # All information is as-is and without any guarantee!
 
+The geojsons are stored and maintainded on github. https://github.com/pierre-pvln/myPolygons
+
 ### Filename
 Filename should be the same as the identification: _CC-Location-Type-Typename.geojson_
 
