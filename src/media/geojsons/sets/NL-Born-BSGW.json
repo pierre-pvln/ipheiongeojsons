@@ -1,4 +1,9 @@
 {
+	"description": {
+		"setname": ["NL-Born-BSGW.json"],
+		"usage" :  ["Om de BSGW dataset t.b.v. havengelden te creeren voor de gemeente Sittard-Geleen"],
+		"remarks": ["Omdat havengelden worden geint per haven dienen de havens ook opgenomen te worden in de data"]
+	},
 	"chambers": {
 		"files": [
 
@@ -16,9 +21,8 @@
 	},
     "ports": {
 		"files": [
-            "NL-Born-port-Franciscushaven.geojson",
+			"NL-Born-port-Franciscushaven.geojson",
 			"NL-Born-port-Gulyck-Gelderhaven.geojson"
-
 		]
 	},
     "quays": {
@@ -27,7 +31,7 @@
 			"NL-Born-quay-Barge.geojson",
 			"NL-Born-quay-Covas.geojson",
 			"NL-Born-quay-Euregio.geojson",
-			"NL-Born-quay-Langen.geojson",
+			"NL-Born-quay-Loswal.geojson",
 			"NL-Born-quay-Mebin.geojson",
 			"NL-Born-quay-OHB.geojson"
 		]

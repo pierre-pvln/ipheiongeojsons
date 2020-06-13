@@ -1,4 +1,9 @@
 {
+	"description": {
+		"setname": ["NL-roermond.json"],
+		"usage" :  ["Data van sluis Roermond"],
+		"remarks": [""]
+	},
 	"chambers": {
 		"files": [
 
