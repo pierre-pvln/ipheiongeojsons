@@ -1,0 +1,35 @@
+{
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+            "NL-Born-port-Franciscushaven.geojson",
+			"NL-Born-port-Gulyck-Gelderhaven.geojson"
+
+		]
+	},
+    "quays": {
+		"files": [
+			"NL-Born-quay-Arcelormittal.geojson",
+			"NL-Born-quay-Barge.geojson",
+			"NL-Born-quay-Covas.geojson",
+			"NL-Born-quay-Euregio.geojson",
+			"NL-Born-quay-Langen.geojson",
+			"NL-Born-quay-Mebin.geojson",
+			"NL-Born-quay-OHB.geojson"
+		]
+	}
+}

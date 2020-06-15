@@ -2,6 +2,19 @@
 #  Changelog for the ipheiongeojsons Joomla! code
 ---
 </ul>
+<h4>v.0.0.1.4 2020-06-15</h4>
+<ul>
+<li>Typo fixed in upload server definition</li>
+</ul>
+
+</ul>
+<h4>v.0.0.1.3 2020-06-14</h4>
+<ul>
+<li>Fixed locks Maastricht</li>
+<li>New set for Maastricht</li>
+</ul>
+
+</ul>
 <h4>v.0.0.1.2 2020-06-13</h4>
 <ul>
 <li>BORN Quay Langen renamed to quay Loswal</li>
