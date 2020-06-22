@@ -2,6 +2,12 @@
 #  Changelog for the ipheiongeojsons Joomla! code
 ---
 </ul>
+<h4>v.0.0.1.5 2020-06-22</h4>
+<ul>
+<li>sets for Maasbracht and Maastricht added</li>
+</ul>
+
+</ul>
 <h4>v.0.0.1.4 2020-06-15</h4>
 <ul>
 <li>Typo fixed in upload server definition</li>
