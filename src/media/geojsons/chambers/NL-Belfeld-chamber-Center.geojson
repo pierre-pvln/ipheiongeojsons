@@ -4,10 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sluiskolk midden Belfeld",
+        "Name": "Sluiskolk Midden Belfeld",
 		"Identification": "NL-Belfeld-chamber-Center",
 		"Parent": "NL-Belfeld-lock-Lock",
-		"Version": "20200525"
+		"Type": "chamber", 
+		"Version": "20200628"
       },
       "geometry": {
         "type": "Polygon",

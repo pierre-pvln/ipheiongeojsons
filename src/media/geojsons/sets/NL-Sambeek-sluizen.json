@@ -1,0 +1,35 @@
+{
+	"description": {
+		"setname": ["NL-Sambeek-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Beldfeld te creeren voor de gemeente Gennep"],
+		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
+	},
+	"chambers": {
+		"files": [
+			"NL-Sambeek-chamber-Center.geojson",
+			"NL-Sambeek-chamber-North.geojson",
+			"NL-Sambeek-chamber-South.geojson"
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}
